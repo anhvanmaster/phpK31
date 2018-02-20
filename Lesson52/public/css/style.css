@@ -1,0 +1,7 @@
+@font-face {
+	font-family: FOS;
+	src: url('../fonts/fontawesome-webfont.ttf');
+}
+*{
+	font-family: font-family: 'Roboto', 'Open Sans', 'fas', sans-serif;
+}

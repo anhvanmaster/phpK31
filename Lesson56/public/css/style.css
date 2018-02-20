@@ -1,0 +1,21 @@
+@font-face {
+	font-family: FOS;
+	src: url('../fonts/fontawesome-webfont.ttf');
+}
+*{
+	font-family: 'Roboto', 'Open Sans', 'fas', sans-serif;
+}
+.thumb{
+	border: 3px solid #666;
+	margin: 2px;
+}
+.img-thumbnail {
+	display: inline-block;
+	max-width: 100%;
+	height: auto;
+	padding: 4px;
+	line-height: 1.42857143;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
